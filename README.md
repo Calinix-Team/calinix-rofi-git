@@ -1,0 +1,1 @@
+# CalinixOS Alacritty Config files
