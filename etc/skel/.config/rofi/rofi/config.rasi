@@ -4,5 +4,3 @@ configuration {
   show-icons:         true;
   icon-theme:         "WhiteSur-Dark";
 }
-
-@theme "/usr/share/rofi/themes/fancy.rasi"
